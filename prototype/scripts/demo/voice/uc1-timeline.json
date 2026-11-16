@@ -1,0 +1,321 @@
+{
+ "video": "1-outlet-order-to-delivery.mp4",
+ "length": 212.13,
+ "cues": [
+  {
+   "line": "uc1-open",
+   "t": 0.468,
+   "dur": 4.237,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-open.wav",
+   "onScreen": "Title card: A retail outlet order, from paper PO to signed delivery note"
+  },
+  {
+   "line": "uc1-01",
+   "t": 5.743,
+   "dur": 3.309,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-01.wav",
+   "onScreen": "1. Ruwan Jayawardena, Outlet sales: Signs in to the staff console with his work email"
+  },
+  {
+   "line": "uc1-02",
+   "t": 9.728,
+   "dur": 2.591,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-02.wav",
+   "onScreen": "1. Ruwan Jayawardena, Outlet sales: A one-time code is emailed to him, and he types it in"
+  },
+  {
+   "line": "uc1-03",
+   "t": 12.731,
+   "dur": 2.088,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-03.wav",
+   "onScreen": "1. Ruwan Jayawardena, Outlet sales: What's waiting: his work for today, each count opens the list behind it"
+  },
+  {
+   "line": "uc1-04",
+   "t": 15.303,
+   "dur": 4.644,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-04.wav",
+   "onScreen": "2. Ruwan Jayawardena, Outlet sales: Enters Cool Planet's paper PO as a new outlet order"
+  },
+  {
+   "line": "uc1-05",
+   "t": 23.519,
+   "dur": 8.022,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-05.wav",
+   "onScreen": "2. Ruwan Jayawardena, Outlet sales: Adds the lines: 120 Regular pads, 80 Panty liners, 60 Night pads"
+  },
+  {
+   "line": "uc1-06",
+   "t": 34.628,
+   "dur": 3.883,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-06.wav",
+   "onScreen": "2. Ruwan Jayawardena, Outlet sales: Stock check: Regular pads and liners can go now. Night pads are out, so 60 wait, 6th in line"
+  },
+  {
+   "line": "uc1-07",
+   "t": 40.307,
+   "dur": 2.565,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-07.wav",
+   "onScreen": "2. Ruwan Jayawardena, Outlet sales: Order SO-27-00047 is confirmed: 200 packs set aside, 60 back-ordered"
+  },
+  {
+   "line": "uc1-08",
+   "t": 47.18,
+   "dur": 2.618,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-08.wav",
+   "onScreen": "3. Kasun Bandara, Stores: What's waiting: stock has arrived from production and is not yet received"
+  },
+  {
+   "line": "uc1-09",
+   "t": 50.633,
+   "dur": 2.245,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-09.wav",
+   "onScreen": "3. Kasun Bandara, Stores: 2,400 Night pads arrived this morning, and outlets are waiting for them"
+  },
+  {
+   "line": "uc1-10",
+   "t": 53.999,
+   "dur": 2.183,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-10.wav",
+   "onScreen": "3. Kasun Bandara, Stores: Checks the quantity and dates against the docket. The system gives the batch number"
+  },
+  {
+   "line": "uc1-11",
+   "t": 56.974,
+   "dur": 1.863,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-11.wav",
+   "onScreen": "3. Kasun Bandara, Stores: Splits the batch: 1,440 packs for retail outlets, 960 for consultants"
+  },
+  {
+   "line": "uc1-12",
+   "t": 59.34,
+   "dur": 3.104,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-12.wav",
+   "onScreen": "3. Kasun Bandara, Stores: The waiting outlets are listed, oldest order first"
+  },
+  {
+   "line": "uc1-13",
+   "t": 64.508,
+   "dur": 1.907,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-13.wav",
+   "onScreen": "3. Kasun Bandara, Stores: Recorded. Outlet sales are alerted that outlets are waiting for Night pads"
+  },
+  {
+   "line": "uc1-14",
+   "t": 70.65,
+   "dur": 2.228,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-14.wav",
+   "onScreen": "4. Ruwan Jayawardena, Outlet sales: Six orders wait for Night pads, oldest first. Cool Planet's new PO is 6th in line"
+  },
+  {
+   "line": "uc1-15",
+   "t": 73.941,
+   "dur": 1.483,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-15.wav",
+   "onScreen": "4. Ruwan Jayawardena, Outlet sales: He confirms with each outlet, then allocates from the top, starting with Fashion Park"
+  },
+  {
+   "line": "uc1-16",
+   "t": 75.839,
+   "dur": 4.343,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-16.wav",
+   "onScreen": "4. Ruwan Jayawardena, Outlet sales: Each allocation sets the packs aside for that order, oldest first"
+  },
+  {
+   "line": "uc1-17",
+   "t": 81.764,
+   "dur": 1.729,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-17.wav",
+   "onScreen": "4. Ruwan Jayawardena, Outlet sales: Last in line, Cool Planet's 60 Night pads on SO-27-00047"
+  },
+  {
+   "line": "uc1-18",
+   "t": 84.107,
+   "dur": 1.474,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-18.wav",
+   "onScreen": "4. Ruwan Jayawardena, Outlet sales: Every waiting order now has its Night pads. Stores can pick them"
+  },
+  {
+   "line": "uc1-19",
+   "t": 89.609,
+   "dur": 1.775,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-19.wav",
+   "onScreen": "5. Kasun Bandara, Stores: The dispatch board: outlet orders with stock set aside, oldest first"
+  },
+  {
+   "line": "uc1-20",
+   "t": 92.137,
+   "dur": 2.425,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-20.wav",
+   "onScreen": "5. Kasun Bandara, Stores: Creates the pick list for SO-27-00047"
+  },
+  {
+   "line": "uc1-21",
+   "t": 97.274,
+   "dur": 2.685,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-21.wav",
+   "onScreen": "5. Kasun Bandara, Stores: The pick list names the batch for each line, the earliest expiry first"
+  },
+  {
+   "line": "uc1-22",
+   "t": 101.485,
+   "dur": 2.446,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-22.wav",
+   "onScreen": "5. Kasun Bandara, Stores: Packs by scanning each pack's barcode"
+  },
+  {
+   "line": "uc1-23",
+   "t": 105.441,
+   "dur": 1.376,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-23.wav",
+   "onScreen": "5. Kasun Bandara, Stores: A full carton scans as 50 at a time"
+  },
+  {
+   "line": "uc1-24",
+   "t": 107.225,
+   "dur": 2.304,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-24.wav",
+   "onScreen": "5. Kasun Bandara, Stores: A pack of wipes is not on this order, so the scan is refused"
+  },
+  {
+   "line": "uc1-25",
+   "t": 110.811,
+   "dur": 5.65,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-25.wav",
+   "onScreen": "5. Kasun Bandara, Stores: Scans the right products until every line is packed"
+  },
+  {
+   "line": "uc1-26",
+   "t": 120.41,
+   "dur": 1.445,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-26.wav",
+   "onScreen": "5. Kasun Bandara, Stores: Every item checked. The box is ready for its invoice and delivery note"
+  },
+  {
+   "line": "uc1-27",
+   "t": 126.454,
+   "dur": 3.257,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-27.wav",
+   "onScreen": "6. Ruwan Jayawardena, Outlet sales: Packed and checked, so he can issue the invoice and delivery note"
+  },
+  {
+   "line": "uc1-28",
+   "t": 131.334,
+   "dur": 3.596,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-28.wav",
+   "onScreen": "6. Ruwan Jayawardena, Outlet sales: Both are emailed to Cool Planet as PDFs and printed for the driver"
+  },
+  {
+   "line": "uc1-29",
+   "t": 135.513,
+   "dur": 6.184,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-29.wav",
+   "onScreen": "6. Ruwan Jayawardena, Outlet sales: The invoice: Cool Planet's PO number, trade prices, due date from its 45-day terms"
+  },
+  {
+   "line": "uc1-30",
+   "t": 143.618,
+   "dur": 4.052,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-30.wav",
+   "onScreen": "6. Ruwan Jayawardena, Outlet sales: The delivery note: quantities and batch numbers, no prices, and a box for the outlet to sign"
+  },
+  {
+   "line": "uc1-31",
+   "t": 152.853,
+   "dur": 4.177,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-31.wav",
+   "onScreen": "7. Kasun Bandara, Stores: Records the vehicle and driver, then dispatches"
+  },
+  {
+   "line": "uc1-32",
+   "t": 159.9,
+   "dur": 1.731,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-32.wav",
+   "onScreen": "7. Kasun Bandara, Stores: Out for delivery. The stock leaves the warehouse and the order waits for the signed note"
+  },
+  {
+   "line": "uc1-33",
+   "t": 165.98,
+   "dur": 2.155,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-33.wav",
+   "onScreen": "8. Ruwan Jayawardena, Outlet sales: The driver is back with Cool Planet's signed delivery note"
+  },
+  {
+   "line": "uc1-34",
+   "t": 168.875,
+   "dur": 1.153,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-34.wav",
+   "onScreen": "8. Ruwan Jayawardena, Outlet sales: Uploads a photo of the signed note"
+  },
+  {
+   "line": "uc1-35",
+   "t": 170.44,
+   "dur": 1.409,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-35.wav",
+   "onScreen": "8. Ruwan Jayawardena, Outlet sales: The system reads the quantities from the note"
+  },
+  {
+   "line": "uc1-36",
+   "t": 172.666,
+   "dur": 3.181,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-36.wav",
+   "onScreen": "8. Ruwan Jayawardena, Outlet sales: Figures read from the note are highlighted for him to check"
+  },
+  {
+   "line": "uc1-37",
+   "t": 177.89,
+   "dur": 2.031,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-37.wav",
+   "onScreen": "8. Ruwan Jayawardena, Outlet sales: Enters who signed for the goods, then confirms"
+  },
+  {
+   "line": "uc1-38",
+   "t": 180.998,
+   "dur": 3.036,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-38.wav",
+   "onScreen": "8. Ruwan Jayawardena, Outlet sales: All 260 packs received. The order moves to Completed"
+  },
+  {
+   "line": "uc1-39",
+   "t": 186.335,
+   "dur": 1.663,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-39.wav",
+   "onScreen": "8. Ruwan Jayawardena, Outlet sales: SO-27-00047: every pack delivered, nothing outstanding"
+  },
+  {
+   "line": "uc1-40",
+   "t": 192.572,
+   "dur": 2.582,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-40.wav",
+   "onScreen": "9. Kasun Bandara, Stores: Stock: one warehouse, with an allocation for each channel"
+  },
+  {
+   "line": "uc1-41",
+   "t": 196.292,
+   "dur": 3.532,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-41.wav",
+   "onScreen": "9. Kasun Bandara, Stores: Night pads for outlets: the new batch, and what is still set aside for the other orders"
+  },
+  {
+   "line": "uc1-42",
+   "t": 201.351,
+   "dur": 1.857,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-42.wav",
+   "onScreen": "9. Kasun Bandara, Stores: Batch B2702-06: when it was made, when it expires, where it is held"
+  },
+  {
+   "line": "uc1-43",
+   "t": 203.617,
+   "dur": 2.74,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-43.wav",
+   "onScreen": "9. Kasun Bandara, Stores: It traces to Cool Planet's order SO-27-00047, ready for a recall list if ever needed"
+  },
+  {
+   "line": "uc1-close",
+   "t": 207.275,
+   "dur": 3.093,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-close.wav",
+   "onScreen": "Title card: Cool Planet's order is complete"
+  }
+ ]
+}

@@ -1,0 +1,485 @@
+{
+ "all-open": {
+  "file": "all-open.wav",
+  "voice": "bf_emma",
+  "speed": 1,
+  "say": "Two FemmeCare orders, start to finish. First a retail outlet, then a consultant.",
+  "dur": 4.767
+ },
+ "uc1-open": {
+  "file": "uc1-open.wav",
+  "voice": "bf_emma",
+  "speed": 1,
+  "say": "Cool Planet orders for its Kandy showroom, but one product is out of stock.",
+  "dur": 4.237
+ },
+ "uc1-01": {
+  "file": "uc1-01.wav",
+  "voice": "bf_emma",
+  "speed": 1,
+  "say": "Ruwan, in outlet sales, signs in with his work email.",
+  "dur": 3.309
+ },
+ "uc1-02": {
+  "file": "uc1-02.wav",
+  "voice": "bf_emma",
+  "speed": 1,
+  "say": "A one-time code, so no shared passwords.",
+  "dur": 2.591
+ },
+ "uc1-03": {
+  "file": "uc1-03.wav",
+  "voice": "bf_emma",
+  "speed": 1,
+  "say": "Today's work, all on one page.",
+  "dur": 2.088
+ },
+ "uc1-04": {
+  "file": "uc1-04.wav",
+  "voice": "bf_emma",
+  "speed": 1,
+  "say": "Cool Planet's paper PO goes in as a new order, delivered to their Kandy showroom.",
+  "dur": 4.644
+ },
+ "uc1-05": {
+  "file": "uc1-05.wav",
+  "voice": "bf_emma",
+  "speed": 1,
+  "say": "He keys in the three products from the PO. The system checks the stock on every line as he goes, so he knows what can go today before he saves.",
+  "dur": 8.022
+ },
+ "uc1-06": {
+  "file": "uc1-06.wav",
+  "voice": "bf_emma",
+  "speed": 1,
+  "say": "Night pads are out, so those sixty packs join the queue, sixth in line.",
+  "dur": 3.883
+ },
+ "uc1-07": {
+  "file": "uc1-07.wav",
+  "voice": "bf_emma",
+  "speed": 1,
+  "say": "Two hundred packs are set aside, just for them.",
+  "dur": 2.565
+ },
+ "uc1-08": {
+  "file": "uc1-08.wav",
+  "voice": "bf_emma",
+  "speed": 1,
+  "say": "Kasun, in Stores, has new stock to receive.",
+  "dur": 2.618
+ },
+ "uc1-09": {
+  "file": "uc1-09.wav",
+  "voice": "bf_emma",
+  "speed": 1,
+  "say": "The Night pads the outlets are waiting for.",
+  "dur": 2.245
+ },
+ "uc1-10": {
+  "file": "uc1-10.wav",
+  "voice": "bf_emma",
+  "speed": 1,
+  "say": "He checks it against the delivery docket.",
+  "dur": 2.183
+ },
+ "uc1-11": {
+  "file": "uc1-11.wav",
+  "voice": "bf_emma",
+  "speed": 1,
+  "say": "Then splits it between channels.",
+  "dur": 1.863
+ },
+ "uc1-12": {
+  "file": "uc1-12.wav",
+  "voice": "bf_emma",
+  "speed": 1,
+  "say": "He can see who has waited longest, so they're served first.",
+  "dur": 3.104
+ },
+ "uc1-13": {
+  "file": "uc1-13.wav",
+  "voice": "bf_emma",
+  "speed": 1,
+  "say": "Outlet sales are told at once.",
+  "dur": 1.907
+ },
+ "uc1-14": {
+  "file": "uc1-14.wav",
+  "voice": "bf_emma",
+  "speed": 1,
+  "say": "Back to Ruwan. Six orders are waiting.",
+  "dur": 2.228
+ },
+ "uc1-15": {
+  "file": "uc1-15.wav",
+  "voice": "bf_emma",
+  "speed": 1,
+  "say": "Oldest order first.",
+  "dur": 1.483
+ },
+ "uc1-16": {
+  "file": "uc1-16.wav",
+  "voice": "bf_emma",
+  "speed": 1,
+  "say": "He checks each outlet still wants them, and every click sets the packs aside.",
+  "dur": 4.343
+ },
+ "uc1-17": {
+  "file": "uc1-17.wav",
+  "voice": "bf_emma",
+  "speed": 1,
+  "say": "Cool Planet's comes last.",
+  "dur": 1.729
+ },
+ "uc1-18": {
+  "file": "uc1-18.wav",
+  "voice": "bf_emma",
+  "speed": 1,
+  "say": "Every order is covered.",
+  "dur": 1.474
+ },
+ "uc1-19": {
+  "file": "uc1-19.wav",
+  "voice": "bf_emma",
+  "speed": 1,
+  "say": "Now Kasun picks the order.",
+  "dur": 1.775
+ },
+ "uc1-20": {
+  "file": "uc1-20.wav",
+  "voice": "bf_emma",
+  "speed": 1,
+  "say": "He makes the pick list for Cool Planet's order.",
+  "dur": 2.425
+ },
+ "uc1-21": {
+  "file": "uc1-21.wav",
+  "voice": "bf_emma",
+  "speed": 1,
+  "say": "Each line takes the batch that expires soonest.",
+  "dur": 2.685
+ },
+ "uc1-22": {
+  "file": "uc1-22.wav",
+  "voice": "bf_emma",
+  "speed": 1,
+  "say": "Every pack is scanned as it goes in the box.",
+  "dur": 2.446
+ },
+ "uc1-23": {
+  "file": "uc1-23.wav",
+  "voice": "bf_emma",
+  "speed": 1,
+  "say": "Fifty per carton.",
+  "dur": 1.376
+ },
+ "uc1-24": {
+  "file": "uc1-24.wav",
+  "voice": "bf_emma",
+  "speed": 1,
+  "say": "The wrong product is stopped before it leaves.",
+  "dur": 2.304
+ },
+ "uc1-25": {
+  "file": "uc1-25.wav",
+  "voice": "bf_emma",
+  "speed": 1,
+  "say": "He scans the rest. Each line counts up as he goes, until every pack on the order is in the box.",
+  "dur": 5.65
+ },
+ "uc1-26": {
+  "file": "uc1-26.wav",
+  "voice": "bf_emma",
+  "speed": 1,
+  "say": "All packed and checked.",
+  "dur": 1.445
+ },
+ "uc1-27": {
+  "file": "uc1-27.wav",
+  "voice": "bf_emma",
+  "speed": 1,
+  "say": "Ruwan issues the invoice and the delivery note in one go.",
+  "dur": 3.257
+ },
+ "uc1-28": {
+  "file": "uc1-28.wav",
+  "voice": "bf_emma",
+  "speed": 1,
+  "say": "Cool Planet gets them by email, and the driver gets prints.",
+  "dur": 3.596
+ },
+ "uc1-29": {
+  "file": "uc1-29.wav",
+  "voice": "bf_emma",
+  "speed": 1,
+  "say": "The invoice quotes their own PO number, so their accounts team can match it. It's due in forty five days.",
+  "dur": 6.184
+ },
+ "uc1-30": {
+  "file": "uc1-30.wav",
+  "voice": "bf_emma",
+  "speed": 1,
+  "say": "The delivery note shows no prices, just the goods and a place to sign.",
+  "dur": 4.052
+ },
+ "uc1-31": {
+  "file": "uc1-31.wav",
+  "voice": "bf_emma",
+  "speed": 1,
+  "say": "Kasun records the van and the driver, and the order goes out for delivery.",
+  "dur": 4.177
+ },
+ "uc1-32": {
+  "file": "uc1-32.wav",
+  "voice": "bf_emma",
+  "speed": 1,
+  "say": "Now it waits for a signature.",
+  "dur": 1.731
+ },
+ "uc1-33": {
+  "file": "uc1-33.wav",
+  "voice": "bf_emma",
+  "speed": 1,
+  "say": "The driver brings the signed note back.",
+  "dur": 2.155
+ },
+ "uc1-34": {
+  "file": "uc1-34.wav",
+  "voice": "bf_emma",
+  "speed": 1,
+  "say": "Just a photo.",
+  "dur": 1.153
+ },
+ "uc1-35": {
+  "file": "uc1-35.wav",
+  "voice": "bf_emma",
+  "speed": 1,
+  "say": "The system reads it.",
+  "dur": 1.409
+ },
+ "uc1-36": {
+  "file": "uc1-36.wav",
+  "voice": "bf_emma",
+  "speed": 1,
+  "say": "Every figure is highlighted, so he can check it at a glance.",
+  "dur": 3.181
+ },
+ "uc1-37": {
+  "file": "uc1-37.wav",
+  "voice": "bf_emma",
+  "speed": 1,
+  "say": "He adds who signed, and confirms.",
+  "dur": 2.031
+ },
+ "uc1-38": {
+  "file": "uc1-38.wav",
+  "voice": "bf_emma",
+  "speed": 1,
+  "say": "Every pack is accounted for, and the order is complete.",
+  "dur": 3.036
+ },
+ "uc1-39": {
+  "file": "uc1-39.wav",
+  "voice": "bf_emma",
+  "speed": 1,
+  "say": "Nothing is left to deliver.",
+  "dur": 1.663
+ },
+ "uc1-40": {
+  "file": "uc1-40.wav",
+  "voice": "bf_emma",
+  "speed": 1,
+  "say": "Finally, Kasun checks the stock in the warehouse.",
+  "dur": 2.582
+ },
+ "uc1-41": {
+  "file": "uc1-41.wav",
+  "voice": "bf_emma",
+  "speed": 1,
+  "say": "The new Night pads batch, and what's still promised to other outlets.",
+  "dur": 3.532
+ },
+ "uc1-42": {
+  "file": "uc1-42.wav",
+  "voice": "bf_emma",
+  "speed": 1,
+  "say": "Each batch has its own page.",
+  "dur": 1.857
+ },
+ "uc1-43": {
+  "file": "uc1-43.wav",
+  "voice": "bf_emma",
+  "speed": 1,
+  "say": "Showing where every pack went, ready for a recall.",
+  "dur": 2.74
+ },
+ "uc1-close": {
+  "file": "uc1-close.wav",
+  "voice": "bf_emma",
+  "speed": 1,
+  "say": "From paper PO to signed note, with every pack traced.",
+  "dur": 3.093
+ },
+ "uc2-open": {
+  "file": "uc2-open.wav",
+  "voice": "bf_emma",
+  "speed": 1,
+  "say": "Nimali Perayra, a consultant, orders on her phone and pays by card.",
+  "dur": 4.195
+ },
+ "uc2-01": {
+  "file": "uc2-01.wav",
+  "voice": "bf_emma",
+  "speed": 1,
+  "say": "Nimali signs in on her phone with her consultant number and password.",
+  "dur": 3.898
+ },
+ "uc2-02": {
+  "file": "uc2-02.wav",
+  "voice": "bf_emma",
+  "speed": 1,
+  "say": "Her home page shows how she and her team are doing this month.",
+  "dur": 2.956
+ },
+ "uc2-03": {
+  "file": "uc2-03.wav",
+  "voice": "bf_emma",
+  "speed": 1,
+  "say": "She's already met her target, so her team's sales earn her five percent.",
+  "dur": 3.815
+ },
+ "uc2-04": {
+  "file": "uc2-04.wav",
+  "voice": "bf_emma",
+  "speed": 1,
+  "say": "Each pack shows what she makes.",
+  "dur": 1.773
+ },
+ "uc2-05": {
+  "file": "uc2-05.wav",
+  "voice": "bf_emma",
+  "speed": 1,
+  "say": "She picks what her customers want: ten Regular pads and four Night pads.",
+  "dur": 4.181
+ },
+ "uc2-06": {
+  "file": "uc2-06.wav",
+  "voice": "bf_emma",
+  "speed": 1,
+  "say": "Just over ten thousand rupees, plus delivery.",
+  "dur": 2.638
+ },
+ "uc2-07": {
+  "file": "uc2-07.wav",
+  "voice": "bf_emma",
+  "speed": 1,
+  "say": "She'll pay by card, and sees her margin first.",
+  "dur": 2.681
+ },
+ "uc2-08": {
+  "file": "uc2-08.wav",
+  "voice": "bf_emma",
+  "speed": 1,
+  "say": "She enters her card on a secure FemmeCare payment page, just as she would in any online shop.",
+  "dur": 4.983
+ },
+ "uc2-09": {
+  "file": "uc2-09.wav",
+  "voice": "bf_emma",
+  "speed": 1,
+  "say": "Paid, and straight to the warehouse.",
+  "dur": 1.873
+ },
+ "uc2-10": {
+  "file": "uc2-10.wav",
+  "voice": "bf_emma",
+  "speed": 1,
+  "say": "In Operations, Malsha Goonasaykara has paid orders to pack.",
+  "dur": 3.553
+ },
+ "uc2-11": {
+  "file": "uc2-11.wav",
+  "voice": "bf_emma",
+  "speed": 1,
+  "say": "Nimali's order is the newest on the board.",
+  "dur": 2.485
+ },
+ "uc2-12": {
+  "file": "uc2-12.wav",
+  "voice": "bf_emma",
+  "speed": 1,
+  "say": "The earliest expiry goes first.",
+  "dur": 2.041
+ },
+ "uc2-13": {
+  "file": "uc2-13.wav",
+  "voice": "bf_emma",
+  "speed": 1,
+  "say": "She scans an inner box of ten, then the four Night pads, one by one. The system counts every pack.",
+  "dur": 5.617
+ },
+ "uc2-14": {
+  "file": "uc2-14.wav",
+  "voice": "bf_emma",
+  "speed": 1,
+  "say": "With everything checked, she hands it to the courier and adds the tracking number.",
+  "dur": 3.758
+ },
+ "uc2-15": {
+  "file": "uc2-15.wav",
+  "voice": "bf_emma",
+  "speed": 1,
+  "say": "Nimali gets a text straight away.",
+  "dur": 2.008
+ },
+ "uc2-16": {
+  "file": "uc2-16.wav",
+  "voice": "bf_emma",
+  "speed": 1,
+  "say": "Back on Nimali's phone, the text tells her who's bringing it, and how to track it.",
+  "dur": 4.06
+ },
+ "uc2-17": {
+  "file": "uc2-17.wav",
+  "voice": "bf_emma",
+  "speed": 1,
+  "say": "Her order shows it's paid and on its way.",
+  "dur": 2.358
+ },
+ "uc2-18": {
+  "file": "uc2-18.wav",
+  "voice": "bf_emma",
+  "speed": 1,
+  "say": "She can follow the parcel without calling anyone.",
+  "dur": 2.579
+ },
+ "uc2-19": {
+  "file": "uc2-19.wav",
+  "voice": "bf_emma",
+  "speed": 1,
+  "say": "When it arrives, she confirms with one tap.",
+  "dur": 2.389
+ },
+ "uc2-20": {
+  "file": "uc2-20.wav",
+  "voice": "bf_emma",
+  "speed": 1,
+  "say": "Paid and delivered, and nothing is left open to chase.",
+  "dur": 3.188
+ },
+ "uc2-21": {
+  "file": "uc2-21.wav",
+  "voice": "bf_emma",
+  "speed": 1,
+  "say": "It now counts towards her own sales.",
+  "dur": 2.136
+ },
+ "uc2-close": {
+  "file": "uc2-close.wav",
+  "voice": "bf_emma",
+  "speed": 1,
+  "say": "From her phone to her door, with every step on record.",
+  "dur": 2.749
+ }
+}

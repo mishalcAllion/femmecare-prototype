@@ -1,0 +1,167 @@
+{
+ "video": "2-consultant-order-to-delivery.mp4",
+ "length": 121.67,
+ "cues": [
+  {
+   "line": "uc2-open",
+   "t": 0.468,
+   "dur": 4.195,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc2-open.wav",
+   "onScreen": "Title card: A consultant order, from her phone to her door"
+  },
+  {
+   "line": "uc2-01",
+   "t": 5.742,
+   "dur": 3.898,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc2-01.wav",
+   "onScreen": "1. Nimali Perera, Consultant FC00006: Signs in on her phone with her consultant number and password"
+  },
+  {
+   "line": "uc2-02",
+   "t": 11.52,
+   "dur": 2.956,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc2-02.wav",
+   "onScreen": "1. Nimali Perera, Consultant FC00006: Her home page: her sales, her team's sales and her commission so far this month"
+  },
+  {
+   "line": "uc2-03",
+   "t": 15.662,
+   "dur": 3.815,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc2-03.wav",
+   "onScreen": "1. Nimali Perera, Consultant FC00006: Her monthly target: LKR 5,000 of team and own sales to earn 5%, already met"
+  },
+  {
+   "line": "uc2-04",
+   "t": 20.977,
+   "dur": 1.773,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc2-04.wav",
+   "onScreen": "2. Nimali Perera, Consultant FC00006: Every pack shows the MRP, her price and her margin"
+  },
+  {
+   "line": "uc2-05",
+   "t": 23.479,
+   "dur": 4.181,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc2-05.wav",
+   "onScreen": "2. Nimali Perera, Consultant FC00006: Adds 10 Regular pads and 4 Night pads"
+  },
+  {
+   "line": "uc2-06",
+   "t": 31.043,
+   "dur": 2.638,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc2-06.wav",
+   "onScreen": "2. Nimali Perera, Consultant FC00006: Cart: LKR 10,275 at her price, plus LKR 350 delivery. Delivery is free over LKR 15,000"
+  },
+  {
+   "line": "uc2-07",
+   "t": 34.687,
+   "dur": 2.681,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc2-07.wav",
+   "onScreen": "2. Nimali Perera, Consultant FC00006: She pays by card. Her margin when she sells at MRP is shown too"
+  },
+  {
+   "line": "uc2-08",
+   "t": 38.85,
+   "dur": 4.983,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc2-08.wav",
+   "onScreen": "3. Nimali Perera, Consultant FC00006: A secure FemmeCare card page"
+  },
+  {
+   "line": "uc2-09",
+   "t": 48.452,
+   "dur": 1.873,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc2-09.wav",
+   "onScreen": "3. Nimali Perera, Consultant FC00006: Paid. The order goes to the warehouse to be packed"
+  },
+  {
+   "line": "uc2-10",
+   "t": 54.778,
+   "dur": 3.553,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc2-10.wav",
+   "onScreen": "4. Malsha Gunasekara, Operations: What's waiting: paid consultant orders to pick and pack"
+  },
+  {
+   "line": "uc2-11",
+   "t": 59.352,
+   "dur": 2.485,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc2-11.wav",
+   "onScreen": "4. Malsha Gunasekara, Operations: Nimali's paid order CO-27-00273 is on the dispatch board"
+  },
+  {
+   "line": "uc2-12",
+   "t": 64.424,
+   "dur": 2.041,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc2-12.wav",
+   "onScreen": "4. Malsha Gunasekara, Operations: The pick list takes the batch that expires first"
+  },
+  {
+   "line": "uc2-13",
+   "t": 67.093,
+   "dur": 5.617,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc2-13.wav",
+   "onScreen": "5. Malsha Gunasekara, Operations: Packs by scan: an inner box of 10 Regular pads, then 4 Night pads"
+  },
+  {
+   "line": "uc2-14",
+   "t": 77.277,
+   "dur": 3.758,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc2-14.wav",
+   "onScreen": "5. Malsha Gunasekara, Operations: Packed and checked. She hands it to the courier and enters the tracking number"
+  },
+  {
+   "line": "uc2-15",
+   "t": 82.844,
+   "dur": 2.008,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc2-15.wav",
+   "onScreen": "5. Malsha Gunasekara, Operations: Handed to Domex. The system texts Nimali the courier and tracking number"
+  },
+  {
+   "line": "uc2-16",
+   "t": 90.293,
+   "dur": 4.06,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc2-16.wav",
+   "onScreen": "6. Nimali Perera, Consultant FC00006: An SMS arrives with the courier and the tracking number"
+  },
+  {
+   "line": "uc2-17",
+   "t": 96.643,
+   "dur": 2.358,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc2-17.wav",
+   "onScreen": "6. Nimali Perera, Consultant FC00006: Her order: paid, and dispatched with Domex"
+  },
+  {
+   "line": "uc2-18",
+   "t": 100.887,
+   "dur": 2.579,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc2-18.wav",
+   "onScreen": "6. Nimali Perera, Consultant FC00006: Track parcel shows the courier's updates"
+  },
+  {
+   "line": "uc2-19",
+   "t": 104.896,
+   "dur": 2.389,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc2-19.wav",
+   "onScreen": "7. Nimali Perera, Consultant FC00006: When the parcel reaches her, she taps I received it"
+  },
+  {
+   "line": "uc2-20",
+   "t": 108.248,
+   "dur": 3.188,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc2-20.wav",
+   "onScreen": "7. Nimali Perera, Consultant FC00006: Delivered. Payment and delivery are both complete"
+  },
+  {
+   "line": "uc2-21",
+   "t": 113.46,
+   "dur": 2.136,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc2-21.wav",
+   "onScreen": "7. Nimali Perera, Consultant FC00006: Back on her home page, the order now counts in her own sales for March"
+  },
+  {
+   "line": "uc2-close",
+   "t": 116.863,
+   "dur": 2.749,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc2-close.wav",
+   "onScreen": "Title card: Nimali's order is delivered"
+  }
+ ]
+}

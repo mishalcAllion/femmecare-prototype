@@ -1,0 +1,11 @@
+import { generate } from "../src/domain/seed/generate";
+const db = generate("month_end");
+console.log("grns", db.grns.map(g=>`${g.id} ${g.productId} ${g.status} ${g.qty} ${g.ts.slice(0,10)}`).join(" | "));
+const byType: Record<string, number> = {};
+for (const m of db.movements) byType[m.type] = (byType[m.type] ?? 0) + m.qtyIn + m.qtyOut;
+console.log(byType);
+console.log("dispatch statuses", db.dispatches.reduce((m: Record<string,number>,x)=>{m[x.channel+":"+x.status]=(m[x.channel+":"+x.status]??0)+1;return m;},{}));
+console.log("co statuses", db.consultantOrders.reduce((m: Record<string,number>,x)=>{m[x.paymentStatus+":"+x.deliveryStatus]=(m[x.paymentStatus+":"+x.deliveryStatus]??0)+1;return m;},{}));
+const lots = db.stockLots.filter(l=>l.productId==="FC002");
+console.log(lots);
+console.log(db.inbox.slice(0,5).map(i=>i.title));

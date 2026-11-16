@@ -1,0 +1,489 @@
+{
+ "video": "femmecare-demo.mp4",
+ "length": 340.47,
+ "cues": [
+  {
+   "line": "all-open",
+   "t": 0.7,
+   "dur": 4.767,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\all-open.wav",
+   "onScreen": "Title card: Two orders, start to finish"
+  },
+  {
+   "line": "uc1-open",
+   "t": 7.138,
+   "dur": 4.237,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-open.wav",
+   "onScreen": "Title card: A retail outlet order, from paper PO to signed delivery note"
+  },
+  {
+   "line": "uc1-01",
+   "t": 12.413,
+   "dur": 3.309,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-01.wav",
+   "onScreen": "1. Ruwan Jayawardena, Outlet sales: Signs in to the staff console with his work email"
+  },
+  {
+   "line": "uc1-02",
+   "t": 16.398,
+   "dur": 2.591,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-02.wav",
+   "onScreen": "1. Ruwan Jayawardena, Outlet sales: A one-time code is emailed to him, and he types it in"
+  },
+  {
+   "line": "uc1-03",
+   "t": 19.401,
+   "dur": 2.088,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-03.wav",
+   "onScreen": "1. Ruwan Jayawardena, Outlet sales: What's waiting: his work for today, each count opens the list behind it"
+  },
+  {
+   "line": "uc1-04",
+   "t": 21.973,
+   "dur": 4.644,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-04.wav",
+   "onScreen": "2. Ruwan Jayawardena, Outlet sales: Enters Cool Planet's paper PO as a new outlet order"
+  },
+  {
+   "line": "uc1-05",
+   "t": 30.189,
+   "dur": 8.022,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-05.wav",
+   "onScreen": "2. Ruwan Jayawardena, Outlet sales: Adds the lines: 120 Regular pads, 80 Panty liners, 60 Night pads"
+  },
+  {
+   "line": "uc1-06",
+   "t": 41.298,
+   "dur": 3.883,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-06.wav",
+   "onScreen": "2. Ruwan Jayawardena, Outlet sales: Stock check: Regular pads and liners can go now. Night pads are out, so 60 wait, 6th in line"
+  },
+  {
+   "line": "uc1-07",
+   "t": 46.977,
+   "dur": 2.565,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-07.wav",
+   "onScreen": "2. Ruwan Jayawardena, Outlet sales: Order SO-27-00047 is confirmed: 200 packs set aside, 60 back-ordered"
+  },
+  {
+   "line": "uc1-08",
+   "t": 53.85,
+   "dur": 2.618,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-08.wav",
+   "onScreen": "3. Kasun Bandara, Stores: What's waiting: stock has arrived from production and is not yet received"
+  },
+  {
+   "line": "uc1-09",
+   "t": 57.303,
+   "dur": 2.245,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-09.wav",
+   "onScreen": "3. Kasun Bandara, Stores: 2,400 Night pads arrived this morning, and outlets are waiting for them"
+  },
+  {
+   "line": "uc1-10",
+   "t": 60.669,
+   "dur": 2.183,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-10.wav",
+   "onScreen": "3. Kasun Bandara, Stores: Checks the quantity and dates against the docket. The system gives the batch number"
+  },
+  {
+   "line": "uc1-11",
+   "t": 63.644,
+   "dur": 1.863,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-11.wav",
+   "onScreen": "3. Kasun Bandara, Stores: Splits the batch: 1,440 packs for retail outlets, 960 for consultants"
+  },
+  {
+   "line": "uc1-12",
+   "t": 66.01,
+   "dur": 3.104,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-12.wav",
+   "onScreen": "3. Kasun Bandara, Stores: The waiting outlets are listed, oldest order first"
+  },
+  {
+   "line": "uc1-13",
+   "t": 71.178,
+   "dur": 1.907,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-13.wav",
+   "onScreen": "3. Kasun Bandara, Stores: Recorded. Outlet sales are alerted that outlets are waiting for Night pads"
+  },
+  {
+   "line": "uc1-14",
+   "t": 77.32,
+   "dur": 2.228,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-14.wav",
+   "onScreen": "4. Ruwan Jayawardena, Outlet sales: Six orders wait for Night pads, oldest first. Cool Planet's new PO is 6th in line"
+  },
+  {
+   "line": "uc1-15",
+   "t": 80.611,
+   "dur": 1.483,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-15.wav",
+   "onScreen": "4. Ruwan Jayawardena, Outlet sales: He confirms with each outlet, then allocates from the top, starting with Fashion Park"
+  },
+  {
+   "line": "uc1-16",
+   "t": 82.509,
+   "dur": 4.343,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-16.wav",
+   "onScreen": "4. Ruwan Jayawardena, Outlet sales: Each allocation sets the packs aside for that order, oldest first"
+  },
+  {
+   "line": "uc1-17",
+   "t": 88.434,
+   "dur": 1.729,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-17.wav",
+   "onScreen": "4. Ruwan Jayawardena, Outlet sales: Last in line, Cool Planet's 60 Night pads on SO-27-00047"
+  },
+  {
+   "line": "uc1-18",
+   "t": 90.777,
+   "dur": 1.474,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-18.wav",
+   "onScreen": "4. Ruwan Jayawardena, Outlet sales: Every waiting order now has its Night pads. Stores can pick them"
+  },
+  {
+   "line": "uc1-19",
+   "t": 96.279,
+   "dur": 1.775,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-19.wav",
+   "onScreen": "5. Kasun Bandara, Stores: The dispatch board: outlet orders with stock set aside, oldest first"
+  },
+  {
+   "line": "uc1-20",
+   "t": 98.807,
+   "dur": 2.425,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-20.wav",
+   "onScreen": "5. Kasun Bandara, Stores: Creates the pick list for SO-27-00047"
+  },
+  {
+   "line": "uc1-21",
+   "t": 103.944,
+   "dur": 2.685,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-21.wav",
+   "onScreen": "5. Kasun Bandara, Stores: The pick list names the batch for each line, the earliest expiry first"
+  },
+  {
+   "line": "uc1-22",
+   "t": 108.155,
+   "dur": 2.446,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-22.wav",
+   "onScreen": "5. Kasun Bandara, Stores: Packs by scanning each pack's barcode"
+  },
+  {
+   "line": "uc1-23",
+   "t": 112.111,
+   "dur": 1.376,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-23.wav",
+   "onScreen": "5. Kasun Bandara, Stores: A full carton scans as 50 at a time"
+  },
+  {
+   "line": "uc1-24",
+   "t": 113.895,
+   "dur": 2.304,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-24.wav",
+   "onScreen": "5. Kasun Bandara, Stores: A pack of wipes is not on this order, so the scan is refused"
+  },
+  {
+   "line": "uc1-25",
+   "t": 117.481,
+   "dur": 5.65,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-25.wav",
+   "onScreen": "5. Kasun Bandara, Stores: Scans the right products until every line is packed"
+  },
+  {
+   "line": "uc1-26",
+   "t": 127.08,
+   "dur": 1.445,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-26.wav",
+   "onScreen": "5. Kasun Bandara, Stores: Every item checked. The box is ready for its invoice and delivery note"
+  },
+  {
+   "line": "uc1-27",
+   "t": 133.124,
+   "dur": 3.257,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-27.wav",
+   "onScreen": "6. Ruwan Jayawardena, Outlet sales: Packed and checked, so he can issue the invoice and delivery note"
+  },
+  {
+   "line": "uc1-28",
+   "t": 138.004,
+   "dur": 3.596,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-28.wav",
+   "onScreen": "6. Ruwan Jayawardena, Outlet sales: Both are emailed to Cool Planet as PDFs and printed for the driver"
+  },
+  {
+   "line": "uc1-29",
+   "t": 142.183,
+   "dur": 6.184,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-29.wav",
+   "onScreen": "6. Ruwan Jayawardena, Outlet sales: The invoice: Cool Planet's PO number, trade prices, due date from its 45-day terms"
+  },
+  {
+   "line": "uc1-30",
+   "t": 150.288,
+   "dur": 4.052,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-30.wav",
+   "onScreen": "6. Ruwan Jayawardena, Outlet sales: The delivery note: quantities and batch numbers, no prices, and a box for the outlet to sign"
+  },
+  {
+   "line": "uc1-31",
+   "t": 159.523,
+   "dur": 4.177,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-31.wav",
+   "onScreen": "7. Kasun Bandara, Stores: Records the vehicle and driver, then dispatches"
+  },
+  {
+   "line": "uc1-32",
+   "t": 166.57,
+   "dur": 1.731,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-32.wav",
+   "onScreen": "7. Kasun Bandara, Stores: Out for delivery. The stock leaves the warehouse and the order waits for the signed note"
+  },
+  {
+   "line": "uc1-33",
+   "t": 172.65,
+   "dur": 2.155,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-33.wav",
+   "onScreen": "8. Ruwan Jayawardena, Outlet sales: The driver is back with Cool Planet's signed delivery note"
+  },
+  {
+   "line": "uc1-34",
+   "t": 175.545,
+   "dur": 1.153,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-34.wav",
+   "onScreen": "8. Ruwan Jayawardena, Outlet sales: Uploads a photo of the signed note"
+  },
+  {
+   "line": "uc1-35",
+   "t": 177.11,
+   "dur": 1.409,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-35.wav",
+   "onScreen": "8. Ruwan Jayawardena, Outlet sales: The system reads the quantities from the note"
+  },
+  {
+   "line": "uc1-36",
+   "t": 179.336,
+   "dur": 3.181,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-36.wav",
+   "onScreen": "8. Ruwan Jayawardena, Outlet sales: Figures read from the note are highlighted for him to check"
+  },
+  {
+   "line": "uc1-37",
+   "t": 184.56,
+   "dur": 2.031,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-37.wav",
+   "onScreen": "8. Ruwan Jayawardena, Outlet sales: Enters who signed for the goods, then confirms"
+  },
+  {
+   "line": "uc1-38",
+   "t": 187.668,
+   "dur": 3.036,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-38.wav",
+   "onScreen": "8. Ruwan Jayawardena, Outlet sales: All 260 packs received. The order moves to Completed"
+  },
+  {
+   "line": "uc1-39",
+   "t": 193.005,
+   "dur": 1.663,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-39.wav",
+   "onScreen": "8. Ruwan Jayawardena, Outlet sales: SO-27-00047: every pack delivered, nothing outstanding"
+  },
+  {
+   "line": "uc1-40",
+   "t": 199.242,
+   "dur": 2.582,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-40.wav",
+   "onScreen": "9. Kasun Bandara, Stores: Stock: one warehouse, with an allocation for each channel"
+  },
+  {
+   "line": "uc1-41",
+   "t": 202.962,
+   "dur": 3.532,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-41.wav",
+   "onScreen": "9. Kasun Bandara, Stores: Night pads for outlets: the new batch, and what is still set aside for the other orders"
+  },
+  {
+   "line": "uc1-42",
+   "t": 208.021,
+   "dur": 1.857,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-42.wav",
+   "onScreen": "9. Kasun Bandara, Stores: Batch B2702-06: when it was made, when it expires, where it is held"
+  },
+  {
+   "line": "uc1-43",
+   "t": 210.287,
+   "dur": 2.74,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-43.wav",
+   "onScreen": "9. Kasun Bandara, Stores: It traces to Cool Planet's order SO-27-00047, ready for a recall list if ever needed"
+  },
+  {
+   "line": "uc1-close",
+   "t": 213.945,
+   "dur": 3.093,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc1-close.wav",
+   "onScreen": "Title card: Cool Planet's order is complete"
+  },
+  {
+   "line": "uc2-open",
+   "t": 219.268,
+   "dur": 4.195,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc2-open.wav",
+   "onScreen": "Title card: A consultant order, from her phone to her door"
+  },
+  {
+   "line": "uc2-01",
+   "t": 224.542,
+   "dur": 3.898,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc2-01.wav",
+   "onScreen": "1. Nimali Perera, Consultant FC00006: Signs in on her phone with her consultant number and password"
+  },
+  {
+   "line": "uc2-02",
+   "t": 230.32,
+   "dur": 2.956,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc2-02.wav",
+   "onScreen": "1. Nimali Perera, Consultant FC00006: Her home page: her sales, her team's sales and her commission so far this month"
+  },
+  {
+   "line": "uc2-03",
+   "t": 234.462,
+   "dur": 3.815,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc2-03.wav",
+   "onScreen": "1. Nimali Perera, Consultant FC00006: Her monthly target: LKR 5,000 of team and own sales to earn 5%, already met"
+  },
+  {
+   "line": "uc2-04",
+   "t": 239.777,
+   "dur": 1.773,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc2-04.wav",
+   "onScreen": "2. Nimali Perera, Consultant FC00006: Every pack shows the MRP, her price and her margin"
+  },
+  {
+   "line": "uc2-05",
+   "t": 242.279,
+   "dur": 4.181,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc2-05.wav",
+   "onScreen": "2. Nimali Perera, Consultant FC00006: Adds 10 Regular pads and 4 Night pads"
+  },
+  {
+   "line": "uc2-06",
+   "t": 249.843,
+   "dur": 2.638,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc2-06.wav",
+   "onScreen": "2. Nimali Perera, Consultant FC00006: Cart: LKR 10,275 at her price, plus LKR 350 delivery. Delivery is free over LKR 15,000"
+  },
+  {
+   "line": "uc2-07",
+   "t": 253.487,
+   "dur": 2.681,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc2-07.wav",
+   "onScreen": "2. Nimali Perera, Consultant FC00006: She pays by card. Her margin when she sells at MRP is shown too"
+  },
+  {
+   "line": "uc2-08",
+   "t": 257.65,
+   "dur": 4.983,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc2-08.wav",
+   "onScreen": "3. Nimali Perera, Consultant FC00006: A secure FemmeCare card page"
+  },
+  {
+   "line": "uc2-09",
+   "t": 267.252,
+   "dur": 1.873,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc2-09.wav",
+   "onScreen": "3. Nimali Perera, Consultant FC00006: Paid. The order goes to the warehouse to be packed"
+  },
+  {
+   "line": "uc2-10",
+   "t": 273.578,
+   "dur": 3.553,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc2-10.wav",
+   "onScreen": "4. Malsha Gunasekara, Operations: What's waiting: paid consultant orders to pick and pack"
+  },
+  {
+   "line": "uc2-11",
+   "t": 278.152,
+   "dur": 2.485,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc2-11.wav",
+   "onScreen": "4. Malsha Gunasekara, Operations: Nimali's paid order CO-27-00273 is on the dispatch board"
+  },
+  {
+   "line": "uc2-12",
+   "t": 283.224,
+   "dur": 2.041,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc2-12.wav",
+   "onScreen": "4. Malsha Gunasekara, Operations: The pick list takes the batch that expires first"
+  },
+  {
+   "line": "uc2-13",
+   "t": 285.893,
+   "dur": 5.617,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc2-13.wav",
+   "onScreen": "5. Malsha Gunasekara, Operations: Packs by scan: an inner box of 10 Regular pads, then 4 Night pads"
+  },
+  {
+   "line": "uc2-14",
+   "t": 296.077,
+   "dur": 3.758,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc2-14.wav",
+   "onScreen": "5. Malsha Gunasekara, Operations: Packed and checked. She hands it to the courier and enters the tracking number"
+  },
+  {
+   "line": "uc2-15",
+   "t": 301.644,
+   "dur": 2.008,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc2-15.wav",
+   "onScreen": "5. Malsha Gunasekara, Operations: Handed to Domex. The system texts Nimali the courier and tracking number"
+  },
+  {
+   "line": "uc2-16",
+   "t": 309.093,
+   "dur": 4.06,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc2-16.wav",
+   "onScreen": "6. Nimali Perera, Consultant FC00006: An SMS arrives with the courier and the tracking number"
+  },
+  {
+   "line": "uc2-17",
+   "t": 315.443,
+   "dur": 2.358,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc2-17.wav",
+   "onScreen": "6. Nimali Perera, Consultant FC00006: Her order: paid, and dispatched with Domex"
+  },
+  {
+   "line": "uc2-18",
+   "t": 319.687,
+   "dur": 2.579,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc2-18.wav",
+   "onScreen": "6. Nimali Perera, Consultant FC00006: Track parcel shows the courier's updates"
+  },
+  {
+   "line": "uc2-19",
+   "t": 323.696,
+   "dur": 2.389,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc2-19.wav",
+   "onScreen": "7. Nimali Perera, Consultant FC00006: When the parcel reaches her, she taps I received it"
+  },
+  {
+   "line": "uc2-20",
+   "t": 327.048,
+   "dur": 3.188,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc2-20.wav",
+   "onScreen": "7. Nimali Perera, Consultant FC00006: Delivered. Payment and delivery are both complete"
+  },
+  {
+   "line": "uc2-21",
+   "t": 332.26,
+   "dur": 2.136,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc2-21.wav",
+   "onScreen": "7. Nimali Perera, Consultant FC00006: Back on her home page, the order now counts in her own sales for March"
+  },
+  {
+   "line": "uc2-close",
+   "t": 335.663,
+   "dur": 2.749,
+   "file": "C:\\Users\\MishalChowdhury\\Documents\\Projects\\femmecare\\prototype\\scripts\\demo\\voice\\uc2-close.wav",
+   "onScreen": "Title card: Nimali's order is delivered"
+  }
+ ]
+}

@@ -1,0 +1,15 @@
+# Only the prototype and the demo playbook are published.
+# Selyn's documents (sources, estimates, reviews, transcripts), the PRD and the notes stay on the laptop.
+/*
+!/.gitignore
+!/README.md
+!/.github/
+!/prototype/
+!/playbook/
+
+.claude/
+node_modules/
+dist/
+*.tsbuildinfo
+*.local
+.DS_Store
